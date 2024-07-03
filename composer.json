@@ -1,0 +1,15 @@
+{
+    "name": "specbee/storm_cms_ct_person",
+    "description": "Storm CMS Content Type - Person",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+      {
+        "name": "Satyam Prakash",
+        "email": "satyam@specbee.com"
+      }
+    ],
+    "require": {
+      "specbee/storm_cms_content_type_base": "1.x-dev"
+    }
+  }

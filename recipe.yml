@@ -1,0 +1,4 @@
+name: Storm CMS Content Type - Person
+description: Recipe to configure Person content type.
+recipes:
+  - storm_cms_content_type_base
